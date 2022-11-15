@@ -1,3 +1,14 @@
+# All credits of the base project to 
+Ivan Goncharov who translated the original repo
+
+Here I left a video which explain all about the project made by Ivan:
+https://www.youtube.com/watch?v=a99p_fAr6e4&ab_channel=IvanGoncharov
+
+
+# What´s the diference?
+
+I added a PyTorch model and I trained a pre-built sagemaker model (Linear learner) and deployed it to aws. Also I added some labels.
+
 # hand-gesture-recognition-using-mediapipe
 Estimate hand pose using MediaPipe (Python version).<br> This is a sample 
 program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.
